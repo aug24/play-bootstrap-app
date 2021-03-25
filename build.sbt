@@ -1,4 +1,4 @@
-name := """play-bootstray-app"""
+name := """play-bootstrap-app"""
 organization := "com.example"
 
 version := "1.0-SNAPSHOT"
